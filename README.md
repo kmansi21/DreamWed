@@ -30,6 +30,7 @@ This platform is perfect for wedding planners looking to showcase their services
 ![Screenshot (15)](https://github.com/user-attachments/assets/3fa81acf-aa57-43a5-acd1-830fcfca3355)
 ![Screenshot (16)](https://github.com/user-attachments/assets/19b55353-d756-4d06-b80e-69cb56ba07d0)
 ![Screenshot (17)](https://github.com/user-attachments/assets/9d130389-0435-42a4-9de5-54cd32494346)
-![Screenshot (18)](https://github.com/user-attachments/assets/d4f8e246-8c91-4b6b-9f71-2db237398277)
+![Screenshot (19)](https://github.com/user-attachments/assets/0581e2de-e51a-4426-b1b8-73796c087a8e)
+
 
 
