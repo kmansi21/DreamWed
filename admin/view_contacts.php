@@ -211,7 +211,7 @@ if (isset($_GET['approve_id'])) {
                     <thead>
                         <tr>
                             <th>Email</th>
-                            <th>Phone</th>
+                            
                             <th>Number</th> <!-- Added the number column -->
                             <th>Address</th>
                             <th>Plan</th>
@@ -223,7 +223,6 @@ if (isset($_GET['approve_id'])) {
                         <?php while ($row = mysqli_fetch_assoc($result)) { ?>
                             <tr>
                                 <td><?php echo htmlspecialchars($row['email']); ?></td>
-                                <td><?php echo isset($row['phone']) ? htmlspecialchars($row['phone']) : 'N/A'; ?></td> <!-- Display phone number -->
                                 <td><?php echo isset($row['number']) ? htmlspecialchars($row['number']) : 'N/A'; ?></td> <!-- Display number -->
                                 <td><?php echo isset($row['address']) ? htmlspecialchars($row['address']) : 'N/A'; ?></td> <!-- Display address -->
                                 <td><?php echo isset($row['plan']) ? htmlspecialchars($row['plan']) : 'N/A'; ?></td> <!-- Display plan -->
